@@ -15,7 +15,7 @@ ros.ova is an Ubuntu file has preinstalled ROS
 3. From file choose the ros.ova
 4. Click next button then Finish
 
-## Step 5: Make sure ROS is installed correctly
+## Step 5: Ensure ROS is installed correctly
 1. Open the terminal
 2. Press CTRL + I
 3. Type 'roscore'
