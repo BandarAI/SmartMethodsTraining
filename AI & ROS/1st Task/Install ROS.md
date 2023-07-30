@@ -9,7 +9,7 @@
 ## Step 3: Download ros.ova
 ros.ova is an Ubuntu file has preinstalled ROS
 
-## Step 4: Install ros.ova Into The Virtual Vachine
+## Step 4: Import ros.ova Into The Virtual Vachine
 1. Start by opening the virtual machine
 2. Press CTRL + I
 3. From file choose the ros.ova
