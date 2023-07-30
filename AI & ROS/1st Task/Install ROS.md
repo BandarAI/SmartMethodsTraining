@@ -9,14 +9,24 @@
 ## Step 3: Download ros.ova
 ros.ova is an Ubuntu file has preinstalled ROS
 
+The ros.ova file is attached to the task file
+
 ## Step 4: Install ros.ova Into The Virtual Vachine
 1. Start by opening the virtual machine
 2. Press CTRL + I
 3. From file choose the ros.ova
 4. Click next button then Finish
 
+## Step 5: Make sure ROS is installed correctly
+1. Open the terminal
+2. Press CTRL + I
+3. Type roscore
+4. 
 
-## Step 5: References
+
+
+
+## Step 6: References
 [اللقاء الثاني للمسار الثالث والرابع الجزء الاول](https://www.youtube.com/watch?v=cHjr3s07s_Q "اللقاء الثاني للمسار الثالث والرابع الجزء الاول")
 
 [اللقاء الثاني للمسار الثالث والرابع الجزء الثاني](https://www.youtube.com/watch?v=9pI8-YMlyy8 "اللقاء الثاني للمسار الثالث والرابع الجزء الثاني")
