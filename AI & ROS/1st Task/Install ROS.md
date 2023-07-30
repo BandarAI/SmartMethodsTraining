@@ -9,8 +9,6 @@
 ## Step 3: Download ros.ova
 ros.ova is an Ubuntu file has preinstalled ROS
 
-The ros.ova file is attached to the task file
-
 ## Step 4: Install ros.ova Into The Virtual Vachine
 1. Start by opening the virtual machine
 2. Press CTRL + I
@@ -20,8 +18,10 @@ The ros.ova file is attached to the task file
 ## Step 5: Make sure ROS is installed correctly
 1. Open the terminal
 2. Press CTRL + I
-3. Type roscore
-4. 
+3. Type 'roscore'
+4. The output should be similar to the following
+   
+   ![alt text](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/AI%20%26%20ROS/1st%20Task/roscore.png "roscore")
 
 
 
