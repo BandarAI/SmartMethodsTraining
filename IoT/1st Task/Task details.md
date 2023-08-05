@@ -10,6 +10,13 @@ For this task I have used wokwi ismulator with five LED lights each LED light re
 * Yellow for left
 * Purple for stop
 
+![ESP Design](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/IoT/1st%20Task/IOT_T1_Circuit%20Design.png "ESP Design")
+
 The implementation was supposed to get the direction value from the database. I have faced a difficulty in linking the wokwi simulator with my database so I have used the same directions links that were provided during the task lecture.
+
+# Testing The ESP
+
+![ESP Testing](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/IoT/1st%20Task/IOT_T1_Testing.png "ESP Testing")
+
 
 
