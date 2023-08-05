@@ -17,9 +17,8 @@ ros.ova is an Ubuntu file has preinstalled ROS
 
 ## Step 5: Ensure ROS is installed correctly
 1. Open the terminal
-2. Press CTRL + I
-3. Type 'roscore'
-4. The output should be similar to the following
+2. Type 'roscore'
+3. The output should be similar to the following
    
    ![alt text](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/AI%20%26%20ROS/1st%20Task/roscore.png "roscore")
 
