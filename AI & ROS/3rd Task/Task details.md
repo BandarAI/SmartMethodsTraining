@@ -1,5 +1,5 @@
 # Task brief
-The goal of this task is to create an object detection
+The goal of this task is to implement an object detection
 
 # Task Execution Details
 For this task, I have used a pre-trained model capable of detecting approixmately 20 distinct objects. Including humans.
