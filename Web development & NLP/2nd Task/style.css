@@ -1,0 +1,32 @@
+body {
+    background-color: #ebf2fa;
+  }
+  
+  .btns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; 
+    height: 60%; 
+  }
+  
+  .btns .mid-btns {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .btns button {
+    margin: 10px;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 100%;
+    font-weight: bold;
+  }
+  
+  #myCanvas {
+    border: 2px solid black;
+    display: block;
+    margin: 10px auto; 
+  }
+  
