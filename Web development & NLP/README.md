@@ -4,6 +4,6 @@
 ## [Task2: Design Map page](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/Web%20development%20%26%20NLP/2nd%20Task/Task%20details.md)
 ## [Task3: Speech To Text](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/Web%20development%20%26%20NLP/3rd%20Task/Task%20details.md)
 ## [Task4: ]()
-## [Task5: ]()
+## [Task5: Text To Speech](https://github.com/BandarAI/SmartMethodsTraining/blob/Tasks/Web%20development%20%26%20NLP/5th%20Task/Task%20details.md)
 
 
