@@ -1,5 +1,5 @@
 # Task Brief
-The goal of this task is to design a speech-text page and integrate it into the database.
+The goal of this task is to design a speech-text page and store it into the database.
 
 # Task Execution Details
 To implement speech recognition to text on the browser, I used web speech API by JavaScript and used PHP language to insert the text into the database.
