@@ -1,7 +1,1 @@
-# What is Smart methods?
-A national commercial corporation established in 2010 and registered in the Ministry of Commerce, Specialized in automated machine, robots and artificial intelligence. The commercial facility is considered as the first in Robotics and Artificial Intelligence in Saudi Arabia, and classified by Forbes magazine as one of the most innovative companies in the Kingdom of Saudi Arabia in the latest classification in 2015, also classified by Small & Medium Enterprises General Authority (monsha'at) as one of the most innovation company in 2021 
-
-# What is Smart methods training?
-Smart Methods summer training presents an exceptional opportunity to gain comprehensive knowledge in designing robots from A to Z. This program covers all aspects of robot design, including mechanical and electrical engineering, web development, Robot Operating System (ROS), natural language processing (NLP), and other essential topics.
-
-The training program is meticulously crafted to provide students with a well-rounded understanding of the entire robot design process. Participants will delve into mechanical and electrical design principles by learning how to create physical parts of the robots and utilize mechanical components like Arduino and motors, learning about web development techniques encompassing HTML, CSS, Javascript and connecting them to a database using XAMPP. Additionally, participants will gain proficiency in Robot Operating System (ROS) and various other essential topics.
+[ALL DETAILS ARE HERE](https://github.com/BandarAI/SmartMethodsTraining/tree/Tasks)
