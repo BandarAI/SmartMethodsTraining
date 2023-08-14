@@ -23,5 +23,7 @@ There are numerous advantages of the training program, I will specifically menti
 1. 4 tasks from your primary path + 2 tasks from other 4 paths = 12 tasks = Full Stack Robotics Engineer certification
 2. Certification from Technical and Vocational Training Corporation
 
+The certifications are authorized by [MECAI](https://www.mecai.org/) and Technical and Vocational Training Corporation
+
 # Should You Enroll in This Training Program?
 I highly recommend entrolling in this training program. The program is very informative
